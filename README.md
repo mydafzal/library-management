@@ -1,2 +1,2 @@
 # library-management
-![](@github:maidaNsiddique.gif)
+![Demo Gif](@github:maidaNSiddique.gif)
